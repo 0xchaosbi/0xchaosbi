@@ -4,7 +4,7 @@
 　　　 >　⌒ヽ
 　　　/ 　 へ＼
 　　 /　　/　＼＼
-　　 ﾚ　ノ　　 ヽ_つ full stack web dev, smart contracts, and vibes *:・ﾟ✧
+　　 ﾚ　ノ　　 ヽ_つ
 　　/　/
 　 /　/|
 　(　(ヽ
